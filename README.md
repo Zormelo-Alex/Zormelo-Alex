@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Zormelo Dodzi Alexander</h1>
 <h3 align="center">A passionate frontend developer from Ho-Ghana</h3>
-<img align="right" alt="flat cartoon" width="300" src="https://img.freepik.com/premium-vector/programmer-semi-flat-color-vector-character-student-figure-sitting-person-white-man-computer-desk-coding-isolated-modern-cartoon-style-illustration-graphic-design-animation_151150-5964.jpg?w=2000">
+<img align="right" alt="flat cartoon" width="200" src="https://img.freepik.com/premium-vector/programmer-semi-flat-color-vector-character-student-figure-sitting-person-white-man-computer-desk-coding-isolated-modern-cartoon-style-illustration-graphic-design-animation_151150-5964.jpg?w=2000">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zormelo-alex&label=Profile%20views&color=0e75b6&style=flat" alt="zormelo-alex" /> </p>
