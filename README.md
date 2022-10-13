@@ -13,6 +13,7 @@
 
 ![Split-section](https://i.pinimg.com/originals/49/ed/b9/49edb9ca9488ba9e41b9e0b08e417150.png)
 ![Split-section](https://i.pinimg.com/originals/49/ed/b9/49edb9ca9488ba9e41b9e0b08e417150.png)
+![Split-section](https://i.pinimg.com/originals/49/ed/b9/49edb9ca9488ba9e41b9e0b08e417150.png)
 
 - 🔭 I’m currently working on **A twitter clone using ejs**
 
