@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Zormelo Dodzi Alexander</h1>
-<h3 align="center">A passionate frontend developer from Ho-Ghana</h3>
+<h3 align="center">A passionate front-end developer</h3>
 <img align="right" alt="flat cartoon" width="140" src="https://img.freepik.com/premium-vector/programmer-semi-flat-color-vector-character-student-figure-sitting-person-white-man-computer-desk-coding-isolated-modern-cartoon-style-illustration-graphic-design-animation_151150-5964.jpg?w=2000">
 
 
@@ -12,18 +12,16 @@
 <p align="left"> <a href="https://twitter.com/dodzizormelo" target="blank"><img src="https://img.shields.io/twitter/follow/dodzizormelo?logo=twitter&style=for-the-badge" alt="dodzizormelo" /></a> </p>
 
 ![Split-section](https://i.pinimg.com/originals/49/ed/b9/49edb9ca9488ba9e41b9e0b08e417150.png)
-![Split-section](https://i.pinimg.com/originals/49/ed/b9/49edb9ca9488ba9e41b9e0b08e417150.png)
+
 - 🔭 I’m currently working on **A twitter clone using ejs**
 
 - 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [http://dodz-i.vercel.app/](http://dodz-i.vercel.app/)
 
-- 💬 Ask me about **MERN stack, Flutter**
-
 - 📫 How to reach me **alexzormelo9@gmail.com**
 
-- ⚡ Fun fact **Poeple that talk to me seem to believe i'm great at it...lol**
+- ⚡ Fun fact **To determine wheather we can know anything with certainty, we must first doubt everything we know**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
