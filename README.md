@@ -13,9 +13,9 @@
 
 ![Split-section](images/divider.png)
 
-- 🔭 I’m currently working on **A twitter clone using ejs, School projects**
+- 🔭 I’m currently working on: **A twitter clone using ejs, and other unrelated School projects**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning: **React Js**
 
 - 👯 I’m looking to collaborate on: **Web apps and websites**
 
