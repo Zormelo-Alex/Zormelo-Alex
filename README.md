@@ -13,22 +13,22 @@
 
 ![Split-section](images/divider.png)
 
-- 🔭 I’m currently working on **A twitter clone using ejs**
+- 🔭 I’m currently working on **A twitter clone using ejs, School projects**
 
 - 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on: **Web apps and sites**
+- 👯 I’m looking to collaborate on: **Web apps and websites**
 
-- 👨‍💻 All of my projects are available on my portfolio: [http://dodz-i.vercel.app/](http://dodz-i.vercel.app/)
+- 👨‍💻 A brief description of my projects are available on my portfolio: [http://dodz-i.vercel.app/](http://dodz-i.vercel.app/)
 
 - 📫 How to reach me: **alexzormelo9@gmail.com**
 
-- ⚡ Favourite Quote atm: **To determine wheather we can know anything with certainty, we must first doubt everything we know**
+- ⚡ Favourite Quote ATM: **To determine wheather we can know anything with certainty, we must first doubt everything we know**
 
-- 🤤 Endulge yourself with some of my interests: [Patek 🎵](https://www.youtube.com/watch?v=XJc17xPZDUg),
-  [We don't have forever 🎞](https://www.youtube.com/watch?v=ch8pwy-V1E8),
-  [The Truth🎵](https://www.youtube.com/watch?v=UPA2kAQYDm8),
-  [Waves 🎵](https://www.youtube.com/watch?v=dKlgCk3IGBg)
+- 🤤 Endulge yourself with some of my interests: [🎵 Patek ](https://www.youtube.com/watch?v=XJc17xPZDUg),
+  [🎞 We don't have forever ](https://www.youtube.com/watch?v=ch8pwy-V1E8),
+  [🎵 The Truth](https://www.youtube.com/watch?v=UPA2kAQYDm8),
+  [🎵 Waves ](https://www.youtube.com/watch?v=dKlgCk3IGBg)
 
 ![Split-section](images/divider.png)
 
