@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning: **React Js**
 
-- 👯 I’m looking to collaborate on: **Web apps and websites**
+- 👯 I’m looking to collaborate on: **Web apps and website development**
 
 - 👨‍💻 A brief description of my projects are available on my portfolio: [http://dodz-i.vercel.app/](http://dodz-i.vercel.app/)
 
