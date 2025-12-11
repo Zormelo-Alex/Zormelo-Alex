@@ -1,9 +1,9 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+ZORMELO+ALEX;+Welcome!😉;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!😉+I'm+ZORMELO+ALEX👋;" />
 </h1>
-<h3 align="center">A philanthropist, music lover, multifandom enthusiast and a passionate software engineer.</h3>
+<h3 align="center">A philanthropist, music lover, Web3 enthusiast and a passionate software engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zormelo-alex&label=Profile%20views&color=0e75b6&style=flat" alt="zormelo-alex" /> </p>
 
@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on: **An ecommerce web application, and other unrelated projects**
 
-- 🌱 I’m currently learning: **TypeScript**
+- 🌱 I’m currently learning: **Go**
 
 - 👯 I’m looking to collaborate on: **Anything software related!**
 
@@ -36,10 +36,10 @@
 
 - ⚡ Favourite Quote ATM: **To determine wheather we can know anything with certainty, we must first doubt everything we know**
 
-- 🤤 Endulge yourself with some of my interests: [🎵 Patek ](https://www.youtube.com/watch?v=XJc17xPZDUg),
+- 🤤 Endulge yourself with some of my interests: [🎵 Oba ](https://youtu.be/H3e7y1Qv6hY?si=E39GOPMm3OGIJ6uF),
   [🎞 We don't have forever ](https://www.youtube.com/watch?v=ch8pwy-V1E8),
   [🎵 The Truth](https://www.youtube.com/watch?v=UPA2kAQYDm8),
-  [🎵 Waves ](https://www.youtube.com/watch?v=dKlgCk3IGBg)
+  [🎵 Ted Talk ](https://youtu.be/Nb3SR9WLKuU?si=PxTwLBu0uovVSE9g)
 
 ![Split-section](images/divider.png)
 
